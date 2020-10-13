@@ -26,5 +26,4 @@ $ npm run build-prod
 
 $ npm run start
 
-## Get Up and Running
 
